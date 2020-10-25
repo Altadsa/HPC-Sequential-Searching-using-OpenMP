@@ -1,0 +1,105 @@
+
+Thu 22 Oct 15:00:11 BST 2020
+Starting test2 using searching_sequential
+Read test number 2
+Text length = 10000000
+Pattern length = 1000
+
+Pattern found, stopping search. Searched up to index 5001001 out of maximum of 9999000 indexes.
+
+Pattern found at position 5001001
+# comparisons = 5001002000
+
+Test 2 elapsed wall clock time = 14
+Test 2 elapsed CPU time = 14.614776586
+
+Finished searching_sequential for test2
+Thu 22 Oct 15:00:26 BST 2020
+
+Thu 22 Oct 15:00:26 BST 2020
+Searching test2 using searching_OMP_1
+
+Max threads available = 64
+
+Processors available = 4
+
+Read test number 2
+
+
+Running Test 2 using 1 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 5001001
+# comparisons = 5001002000
+
+Test 2 elapsed wall clock time = 13
+Test 2 elapsed CPU time = 13.603693721
+
+
+
+Running Test 2 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 5001001
+# comparisons = 5001002990
+
+Test 2 elapsed wall clock time = 7
+Test 2 elapsed CPU time = 7.006734862
+
+
+
+Running Test 2 using 4 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 5001001
+# comparisons = 5001002462
+
+Test 2 elapsed wall clock time = 3
+Test 2 elapsed CPU time = 3.910661248
+
+
+
+Running Test 2 using 8 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 5001001
+# comparisons = 5001001023
+
+Test 2 elapsed wall clock time = 4
+Test 2 elapsed CPU time = 4.076670193
+
+
+
+Running Test 2 using 16 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 5001001
+# comparisons = 5000997637
+
+Test 2 elapsed wall clock time = 3
+Test 2 elapsed CPU time = 3.972250150
+
+
+
+Running Test 2 using 32 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 5001001
+# comparisons = 5000989919
+
+Test 2 elapsed wall clock time = 4
+Test 2 elapsed CPU time = 4.050201237
+
+
+
+Running Test 2 using 64 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 5001001
+# comparisons = 5000976507
+
+Test 2 elapsed wall clock time = 4
+Test 2 elapsed CPU time = 4.077213668
+
+Finished Search
+Thu 22 Oct 15:01:07 BST 2020

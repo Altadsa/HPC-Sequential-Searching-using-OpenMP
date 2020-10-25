@@ -1,0 +1,59 @@
+
+Tue 20 Oct 09:16:36 BST 2020
+Starting test1 using searching_sequential
+Read test number 1
+Text length = 10000000
+Pattern length = 1000
+
+Pattern found, stopping search. Searched up to index 1001 out of maximum of 9999000 indexes.
+
+Pattern found at position 1001
+# comparisons = 1002000
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.003205649
+
+Finished searching_sequential for test1
+Tue 20 Oct 09:16:37 BST 2020
+
+Searching test1 using searching_OMP_0
+
+Max threads available = 4
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 9998501500
+
+Test 1 elapsed wall clock time = 13
+Test 1 elapsed CPU time = 13.507846407
+
+Finished Search
+
+Tue 20 Oct 09:16:50 BST 2020
+Searching test1 using searching_OMP_1
+
+Max threads available = 4
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2020000
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.012391527
+
+Finished Search
+Tue 20 Oct 09:16:50 BST 2020

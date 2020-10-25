@@ -1,0 +1,815 @@
+Thu 22 Oct 15:00:11 BST 2020
+Searching test2 using searching_OMP_2
+
+Max threads available = 64
+
+Processors available = 4
+
+Read test number 2
+
+
+Running Test 2 using 1 threads
+Text length = 10000000
+Pattern length = 1000
+Found pattern at position:5001001
+Found pattern at position:5002002
+Found pattern at position:5004002
+Found pattern at position:5007001
+Found pattern at position:5010999
+Found pattern at position:5015996
+Found pattern at position:5021992
+Found pattern at position:5028987
+Found pattern at position:5036981
+Found pattern at position:5045974
+Found pattern at position:5055966
+Found pattern at position:5066957
+Found pattern at position:5078947
+Found pattern at position:5091936
+Found pattern at position:5105924
+Found pattern at position:5120911
+Found pattern at position:5136897
+Found pattern at position:5153882
+Found pattern at position:5171866
+Found pattern at position:5190849
+Found pattern at position:5210831
+Found pattern at position:5231812
+Found pattern at position:5253792
+Found pattern at position:5276771
+Found pattern at position:5300749
+Found pattern at position:5325726
+Found pattern at position:5351702
+Found pattern at position:5378677
+Found pattern at position:5406651
+Found pattern at position:5435624
+Found pattern at position:5465596
+Found pattern at position:5496567
+Found pattern at position:5528537
+Found pattern at position:5561506
+Found pattern at position:5595474
+Found pattern at position:5630441
+Found pattern at position:5666407
+Found pattern at position:5703372
+Found pattern at position:5741336
+Found pattern at position:5780299
+Found pattern at position:5820261
+Found pattern at position:5861222
+Found pattern at position:5903182
+Found pattern at position:5946141
+Found pattern at position:5990099
+Found pattern at position:6035056
+Found pattern at position:6081012
+Found pattern at position:6127967
+Found pattern at position:6175921
+Found pattern at position:6224874
+Found pattern at position:6274826
+Found pattern at position:6325777
+Found pattern at position:6377727
+Found pattern at position:6430676
+Found pattern at position:6484624
+Found pattern at position:6539571
+Found pattern at position:6595517
+Found pattern at position:6652462
+Found pattern at position:6710406
+Found pattern at position:6769349
+Found pattern at position:6829291
+Found pattern at position:6890232
+Found pattern at position:6952172
+Found pattern at position:7015111
+Found pattern at position:7079049
+Found pattern at position:7143986
+Found pattern at position:7209922
+Found pattern at position:7276857
+Found pattern at position:7344791
+Found pattern at position:7413724
+Found pattern at position:7483656
+Found pattern at position:7554587
+Found pattern at position:7626517
+Found pattern at position:7699446
+Found pattern at position:7773374
+Found pattern at position:7848301
+Found pattern at position:7924227
+Found pattern at position:8001152
+Found pattern at position:8079076
+Found pattern at position:8157999
+Found pattern at position:8237921
+Found pattern at position:8318842
+Found pattern at position:8400762
+Found pattern at position:8483681
+Found pattern at position:8567599
+Found pattern at position:8652516
+Found pattern at position:8738432
+Found pattern at position:8825347
+Found pattern at position:8913261
+Found pattern at position:9002174
+Found pattern at position:9092086
+Found pattern at position:9182997
+Found pattern at position:9274907
+Found pattern at position:9367816
+Found pattern at position:9461724
+Found pattern at position:9556631
+Found pattern at position:9652537
+Found pattern at position:9749442
+Found pattern at position:9847346
+Found pattern at position:9946249
+
+
+Found 100 instances of pattern.
+
+Pattern found at position 5001001
+# comparisons = 9949051000
+
+Test 2 elapsed wall clock time = 26
+Test 2 elapsed CPU time = 26.820068447
+
+
+
+Running Test 2 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Found pattern at position:5001001
+Found pattern at position:5002002
+Found pattern at position:5004002
+Found pattern at position:5007001
+Found pattern at position:5010999
+Found pattern at position:5015996
+Found pattern at position:5021992
+Found pattern at position:5028987
+Found pattern at position:5036981
+Found pattern at position:5045974
+Found pattern at position:5055966
+Found pattern at position:5066957
+Found pattern at position:5078947
+Found pattern at position:5091936
+Found pattern at position:5105924
+Found pattern at position:5120911
+Found pattern at position:5136897
+Found pattern at position:5153882
+Found pattern at position:5171866
+Found pattern at position:5190849
+Found pattern at position:5210831
+Found pattern at position:5231812
+Found pattern at position:5253792
+Found pattern at position:5276771
+Found pattern at position:5300749
+Found pattern at position:5325726
+Found pattern at position:5351702
+Found pattern at position:5378677
+Found pattern at position:5406651
+Found pattern at position:5435624
+Found pattern at position:5465596
+Found pattern at position:5496567
+Found pattern at position:5528537
+Found pattern at position:5561506
+Found pattern at position:5595474
+Found pattern at position:5630441
+Found pattern at position:5666407
+Found pattern at position:5703372
+Found pattern at position:5741336
+Found pattern at position:5780299
+Found pattern at position:5820261
+Found pattern at position:5861222
+Found pattern at position:5903182
+Found pattern at position:5946141
+Found pattern at position:5990099
+Found pattern at position:6035056
+Found pattern at position:6081012
+Found pattern at position:6127967
+Found pattern at position:6175921
+Found pattern at position:6224874
+Found pattern at position:6274826
+Found pattern at position:6325777
+Found pattern at position:6377727
+Found pattern at position:6430676
+Found pattern at position:6484624
+Found pattern at position:6539571
+Found pattern at position:6595517
+Found pattern at position:6652462
+Found pattern at position:6710406
+Found pattern at position:6769349
+Found pattern at position:6829291
+Found pattern at position:6890232
+Found pattern at position:6952172
+Found pattern at position:7015111
+Found pattern at position:7079049
+Found pattern at position:7143986
+Found pattern at position:7209922
+Found pattern at position:7276857
+Found pattern at position:7344791
+Found pattern at position:7413724
+Found pattern at position:7483656
+Found pattern at position:7554587
+Found pattern at position:7626517
+Found pattern at position:7699446
+Found pattern at position:7773374
+Found pattern at position:7848301
+Found pattern at position:7924227
+Found pattern at position:8001152
+Found pattern at position:8079076
+Found pattern at position:8157999
+Found pattern at position:8237921
+Found pattern at position:8318842
+Found pattern at position:8400762
+Found pattern at position:8483681
+Found pattern at position:8567599
+Found pattern at position:8652516
+Found pattern at position:8738432
+Found pattern at position:8825347
+Found pattern at position:8913261
+Found pattern at position:9002174
+Found pattern at position:9092086
+Found pattern at position:9182997
+Found pattern at position:9274907
+Found pattern at position:9367816
+Found pattern at position:9461724
+Found pattern at position:9556631
+Found pattern at position:9652537
+Found pattern at position:9749442
+Found pattern at position:9847346
+Found pattern at position:9946249
+
+
+Found 100 instances of pattern.
+
+Pattern found at position 5001001
+# comparisons = 9949051000
+
+Test 2 elapsed wall clock time = 13
+Test 2 elapsed CPU time = 13.741603919
+
+
+
+Running Test 2 using 4 threads
+Text length = 10000000
+Pattern length = 1000
+Found pattern at position:5001001
+Found pattern at position:5002002
+Found pattern at position:5004002
+Found pattern at position:5007001
+Found pattern at position:5010999
+Found pattern at position:5015996
+Found pattern at position:5021992
+Found pattern at position:5028987
+Found pattern at position:5036981
+Found pattern at position:5045974
+Found pattern at position:5055966
+Found pattern at position:5066957
+Found pattern at position:5078947
+Found pattern at position:5091936
+Found pattern at position:5105924
+Found pattern at position:5120911
+Found pattern at position:5136897
+Found pattern at position:5153882
+Found pattern at position:5171866
+Found pattern at position:5190849
+Found pattern at position:5210831
+Found pattern at position:5231812
+Found pattern at position:5253792
+Found pattern at position:5276771
+Found pattern at position:5300749
+Found pattern at position:5325726
+Found pattern at position:5351702
+Found pattern at position:5378677
+Found pattern at position:5406651
+Found pattern at position:5435624
+Found pattern at position:5465596
+Found pattern at position:5496567
+Found pattern at position:5528537
+Found pattern at position:5561506
+Found pattern at position:5595474
+Found pattern at position:5630441
+Found pattern at position:5666407
+Found pattern at position:5703372
+Found pattern at position:5741336
+Found pattern at position:5780299
+Found pattern at position:5820261
+Found pattern at position:5861222
+Found pattern at position:5903182
+Found pattern at position:5946141
+Found pattern at position:5990099
+Found pattern at position:6035056
+Found pattern at position:6081012
+Found pattern at position:6127967
+Found pattern at position:6175921
+Found pattern at position:6224874
+Found pattern at position:6274826
+Found pattern at position:6325777
+Found pattern at position:6377727
+Found pattern at position:6430676
+Found pattern at position:6484624
+Found pattern at position:6539571
+Found pattern at position:6595517
+Found pattern at position:6652462
+Found pattern at position:6710406
+Found pattern at position:6769349
+Found pattern at position:6829291
+Found pattern at position:6890232
+Found pattern at position:6952172
+Found pattern at position:7015111
+Found pattern at position:7079049
+Found pattern at position:7143986
+Found pattern at position:7209922
+Found pattern at position:7276857
+Found pattern at position:7344791
+Found pattern at position:7413724
+Found pattern at position:7483656
+Found pattern at position:7554587
+Found pattern at position:7626517
+Found pattern at position:7699446
+Found pattern at position:7773374
+Found pattern at position:7848301
+Found pattern at position:7924227
+Found pattern at position:8001152
+Found pattern at position:8079076
+Found pattern at position:8157999
+Found pattern at position:8237921
+Found pattern at position:8318842
+Found pattern at position:8400762
+Found pattern at position:8483681
+Found pattern at position:8567599
+Found pattern at position:8652516
+Found pattern at position:8738432
+Found pattern at position:8825347
+Found pattern at position:8913261
+Found pattern at position:9002174
+Found pattern at position:9092086
+Found pattern at position:9182997
+Found pattern at position:9274907
+Found pattern at position:9367816
+Found pattern at position:9461724
+Found pattern at position:9556631
+Found pattern at position:9652537
+Found pattern at position:9749442
+Found pattern at position:9847346
+Found pattern at position:9946249
+
+
+Found 100 instances of pattern.
+
+Pattern found at position 5001001
+# comparisons = 9949051000
+
+Test 2 elapsed wall clock time = 7
+Test 2 elapsed CPU time = 7.522392383
+
+
+
+Running Test 2 using 8 threads
+Text length = 10000000
+Pattern length = 1000
+Found pattern at position:5001001
+Found pattern at position:5002002
+Found pattern at position:5004002
+Found pattern at position:5007001
+Found pattern at position:5010999
+Found pattern at position:5015996
+Found pattern at position:5021992
+Found pattern at position:5028987
+Found pattern at position:5036981
+Found pattern at position:5045974
+Found pattern at position:5055966
+Found pattern at position:5066957
+Found pattern at position:5078947
+Found pattern at position:5091936
+Found pattern at position:5105924
+Found pattern at position:5120911
+Found pattern at position:5136897
+Found pattern at position:5153882
+Found pattern at position:5171866
+Found pattern at position:5190849
+Found pattern at position:5210831
+Found pattern at position:5231812
+Found pattern at position:5253792
+Found pattern at position:5276771
+Found pattern at position:5300749
+Found pattern at position:5325726
+Found pattern at position:5351702
+Found pattern at position:5378677
+Found pattern at position:5406651
+Found pattern at position:5435624
+Found pattern at position:5465596
+Found pattern at position:5496567
+Found pattern at position:5528537
+Found pattern at position:5561506
+Found pattern at position:5595474
+Found pattern at position:5630441
+Found pattern at position:5666407
+Found pattern at position:5703372
+Found pattern at position:5741336
+Found pattern at position:5780299
+Found pattern at position:5820261
+Found pattern at position:5861222
+Found pattern at position:5903182
+Found pattern at position:5946141
+Found pattern at position:5990099
+Found pattern at position:6035056
+Found pattern at position:6081012
+Found pattern at position:6127967
+Found pattern at position:6175921
+Found pattern at position:6224874
+Found pattern at position:6274826
+Found pattern at position:6325777
+Found pattern at position:6377727
+Found pattern at position:6430676
+Found pattern at position:6484624
+Found pattern at position:6539571
+Found pattern at position:6595517
+Found pattern at position:6652462
+Found pattern at position:6710406
+Found pattern at position:6769349
+Found pattern at position:6829291
+Found pattern at position:6890232
+Found pattern at position:6952172
+Found pattern at position:7015111
+Found pattern at position:7079049
+Found pattern at position:7143986
+Found pattern at position:7209922
+Found pattern at position:7276857
+Found pattern at position:7344791
+Found pattern at position:7413724
+Found pattern at position:7483656
+Found pattern at position:7554587
+Found pattern at position:7626517
+Found pattern at position:7699446
+Found pattern at position:7773374
+Found pattern at position:7848301
+Found pattern at position:7924227
+Found pattern at position:8001152
+Found pattern at position:8079076
+Found pattern at position:8157999
+Found pattern at position:8237921
+Found pattern at position:8318842
+Found pattern at position:8400762
+Found pattern at position:8483681
+Found pattern at position:8567599
+Found pattern at position:8652516
+Found pattern at position:8738432
+Found pattern at position:8825347
+Found pattern at position:8913261
+Found pattern at position:9002174
+Found pattern at position:9092086
+Found pattern at position:9182997
+Found pattern at position:9274907
+Found pattern at position:9367816
+Found pattern at position:9461724
+Found pattern at position:9556631
+Found pattern at position:9652537
+Found pattern at position:9749442
+Found pattern at position:9847346
+Found pattern at position:9946249
+
+
+Found 100 instances of pattern.
+
+Pattern found at position 5001001
+# comparisons = 9949051000
+
+Test 2 elapsed wall clock time = 7
+Test 2 elapsed CPU time = 7.573625203
+
+
+
+Running Test 2 using 16 threads
+Text length = 10000000
+Pattern length = 1000
+Found pattern at position:5001001
+Found pattern at position:5002002
+Found pattern at position:5004002
+Found pattern at position:5007001
+Found pattern at position:5010999
+Found pattern at position:5015996
+Found pattern at position:5021992
+Found pattern at position:5028987
+Found pattern at position:5036981
+Found pattern at position:5045974
+Found pattern at position:5055966
+Found pattern at position:5066957
+Found pattern at position:5078947
+Found pattern at position:5091936
+Found pattern at position:5105924
+Found pattern at position:5120911
+Found pattern at position:5136897
+Found pattern at position:5153882
+Found pattern at position:5171866
+Found pattern at position:5190849
+Found pattern at position:5210831
+Found pattern at position:5231812
+Found pattern at position:5253792
+Found pattern at position:5276771
+Found pattern at position:5300749
+Found pattern at position:5325726
+Found pattern at position:5351702
+Found pattern at position:5378677
+Found pattern at position:5406651
+Found pattern at position:5435624
+Found pattern at position:5465596
+Found pattern at position:5496567
+Found pattern at position:5528537
+Found pattern at position:5561506
+Found pattern at position:5595474
+Found pattern at position:5630441
+Found pattern at position:5666407
+Found pattern at position:5703372
+Found pattern at position:5741336
+Found pattern at position:5780299
+Found pattern at position:5820261
+Found pattern at position:5861222
+Found pattern at position:5903182
+Found pattern at position:5946141
+Found pattern at position:5990099
+Found pattern at position:6035056
+Found pattern at position:6081012
+Found pattern at position:6127967
+Found pattern at position:6175921
+Found pattern at position:6224874
+Found pattern at position:6274826
+Found pattern at position:6325777
+Found pattern at position:6377727
+Found pattern at position:6430676
+Found pattern at position:6484624
+Found pattern at position:6539571
+Found pattern at position:6595517
+Found pattern at position:6652462
+Found pattern at position:6710406
+Found pattern at position:6769349
+Found pattern at position:6829291
+Found pattern at position:6890232
+Found pattern at position:6952172
+Found pattern at position:7015111
+Found pattern at position:7079049
+Found pattern at position:7143986
+Found pattern at position:7209922
+Found pattern at position:7276857
+Found pattern at position:7344791
+Found pattern at position:7413724
+Found pattern at position:7483656
+Found pattern at position:7554587
+Found pattern at position:7626517
+Found pattern at position:7699446
+Found pattern at position:7773374
+Found pattern at position:7848301
+Found pattern at position:7924227
+Found pattern at position:8001152
+Found pattern at position:8079076
+Found pattern at position:8157999
+Found pattern at position:8237921
+Found pattern at position:8318842
+Found pattern at position:8400762
+Found pattern at position:8483681
+Found pattern at position:8567599
+Found pattern at position:8652516
+Found pattern at position:8738432
+Found pattern at position:8825347
+Found pattern at position:8913261
+Found pattern at position:9002174
+Found pattern at position:9092086
+Found pattern at position:9182997
+Found pattern at position:9274907
+Found pattern at position:9367816
+Found pattern at position:9461724
+Found pattern at position:9556631
+Found pattern at position:9652537
+Found pattern at position:9749442
+Found pattern at position:9847346
+Found pattern at position:9946249
+
+
+Found 100 instances of pattern.
+
+Pattern found at position 5001001
+# comparisons = 9949051000
+
+Test 2 elapsed wall clock time = 7
+Test 2 elapsed CPU time = 7.509869528
+
+
+
+Running Test 2 using 32 threads
+Text length = 10000000
+Pattern length = 1000
+Found pattern at position:5001001
+Found pattern at position:5002002
+Found pattern at position:5004002
+Found pattern at position:5007001
+Found pattern at position:5010999
+Found pattern at position:5015996
+Found pattern at position:5021992
+Found pattern at position:5028987
+Found pattern at position:5036981
+Found pattern at position:5045974
+Found pattern at position:5055966
+Found pattern at position:5066957
+Found pattern at position:5078947
+Found pattern at position:5091936
+Found pattern at position:5105924
+Found pattern at position:5120911
+Found pattern at position:5136897
+Found pattern at position:5153882
+Found pattern at position:5171866
+Found pattern at position:5190849
+Found pattern at position:5210831
+Found pattern at position:5231812
+Found pattern at position:5253792
+Found pattern at position:5276771
+Found pattern at position:5300749
+Found pattern at position:5325726
+Found pattern at position:5351702
+Found pattern at position:5378677
+Found pattern at position:5406651
+Found pattern at position:5435624
+Found pattern at position:5465596
+Found pattern at position:5496567
+Found pattern at position:5528537
+Found pattern at position:5561506
+Found pattern at position:5595474
+Found pattern at position:5630441
+Found pattern at position:5666407
+Found pattern at position:5703372
+Found pattern at position:5741336
+Found pattern at position:5780299
+Found pattern at position:5820261
+Found pattern at position:5861222
+Found pattern at position:5903182
+Found pattern at position:5946141
+Found pattern at position:5990099
+Found pattern at position:6035056
+Found pattern at position:6081012
+Found pattern at position:6127967
+Found pattern at position:6175921
+Found pattern at position:6224874
+Found pattern at position:6274826
+Found pattern at position:6325777
+Found pattern at position:6377727
+Found pattern at position:6430676
+Found pattern at position:6484624
+Found pattern at position:6539571
+Found pattern at position:6595517
+Found pattern at position:6652462
+Found pattern at position:6710406
+Found pattern at position:6769349
+Found pattern at position:6829291
+Found pattern at position:6890232
+Found pattern at position:6952172
+Found pattern at position:7015111
+Found pattern at position:7079049
+Found pattern at position:7143986
+Found pattern at position:7209922
+Found pattern at position:7276857
+Found pattern at position:7344791
+Found pattern at position:7413724
+Found pattern at position:7483656
+Found pattern at position:7554587
+Found pattern at position:7626517
+Found pattern at position:7699446
+Found pattern at position:7773374
+Found pattern at position:7848301
+Found pattern at position:7924227
+Found pattern at position:8001152
+Found pattern at position:8079076
+Found pattern at position:8157999
+Found pattern at position:8237921
+Found pattern at position:8318842
+Found pattern at position:8400762
+Found pattern at position:8483681
+Found pattern at position:8567599
+Found pattern at position:8652516
+Found pattern at position:8738432
+Found pattern at position:8825347
+Found pattern at position:8913261
+Found pattern at position:9002174
+Found pattern at position:9092086
+Found pattern at position:9182997
+Found pattern at position:9274907
+Found pattern at position:9367816
+Found pattern at position:9461724
+Found pattern at position:9556631
+Found pattern at position:9652537
+Found pattern at position:9749442
+Found pattern at position:9847346
+Found pattern at position:9946249
+
+
+Found 100 instances of pattern.
+
+Pattern found at position 5001001
+# comparisons = 9949051000
+
+Test 2 elapsed wall clock time = 7
+Test 2 elapsed CPU time = 7.527940134
+
+
+
+Running Test 2 using 64 threads
+Text length = 10000000
+Pattern length = 1000
+Found pattern at position:5001001
+Found pattern at position:5002002
+Found pattern at position:5004002
+Found pattern at position:5007001
+Found pattern at position:5010999
+Found pattern at position:5015996
+Found pattern at position:5021992
+Found pattern at position:5028987
+Found pattern at position:5036981
+Found pattern at position:5045974
+Found pattern at position:5055966
+Found pattern at position:5066957
+Found pattern at position:5078947
+Found pattern at position:5091936
+Found pattern at position:5105924
+Found pattern at position:5120911
+Found pattern at position:5136897
+Found pattern at position:5153882
+Found pattern at position:5171866
+Found pattern at position:5190849
+Found pattern at position:5210831
+Found pattern at position:5231812
+Found pattern at position:5253792
+Found pattern at position:5276771
+Found pattern at position:5300749
+Found pattern at position:5325726
+Found pattern at position:5351702
+Found pattern at position:5378677
+Found pattern at position:5406651
+Found pattern at position:5435624
+Found pattern at position:5465596
+Found pattern at position:5496567
+Found pattern at position:5528537
+Found pattern at position:5561506
+Found pattern at position:5595474
+Found pattern at position:5630441
+Found pattern at position:5666407
+Found pattern at position:5703372
+Found pattern at position:5741336
+Found pattern at position:5780299
+Found pattern at position:5820261
+Found pattern at position:5861222
+Found pattern at position:5903182
+Found pattern at position:5946141
+Found pattern at position:5990099
+Found pattern at position:6035056
+Found pattern at position:6081012
+Found pattern at position:6127967
+Found pattern at position:6175921
+Found pattern at position:6224874
+Found pattern at position:6274826
+Found pattern at position:6325777
+Found pattern at position:6377727
+Found pattern at position:6430676
+Found pattern at position:6484624
+Found pattern at position:6539571
+Found pattern at position:6595517
+Found pattern at position:6652462
+Found pattern at position:6710406
+Found pattern at position:6769349
+Found pattern at position:6829291
+Found pattern at position:6890232
+Found pattern at position:6952172
+Found pattern at position:7015111
+Found pattern at position:7079049
+Found pattern at position:7143986
+Found pattern at position:7209922
+Found pattern at position:7276857
+Found pattern at position:7344791
+Found pattern at position:7413724
+Found pattern at position:7483656
+Found pattern at position:7554587
+Found pattern at position:7626517
+Found pattern at position:7699446
+Found pattern at position:7773374
+Found pattern at position:7848301
+Found pattern at position:7924227
+Found pattern at position:8001152
+Found pattern at position:8079076
+Found pattern at position:8157999
+Found pattern at position:8237921
+Found pattern at position:8318842
+Found pattern at position:8400762
+Found pattern at position:8483681
+Found pattern at position:8567599
+Found pattern at position:8652516
+Found pattern at position:8738432
+Found pattern at position:8825347
+Found pattern at position:8913261
+Found pattern at position:9002174
+Found pattern at position:9092086
+Found pattern at position:9182997
+Found pattern at position:9274907
+Found pattern at position:9367816
+Found pattern at position:9461724
+Found pattern at position:9556631
+Found pattern at position:9652537
+Found pattern at position:9749442
+Found pattern at position:9847346
+Found pattern at position:9946249
+
+
+Found 100 instances of pattern.
+
+Pattern found at position 5001001
+# comparisons = 9949051000
+
+Test 2 elapsed wall clock time = 7
+Test 2 elapsed CPU time = 7.547720764
+
+Finished Search
+Thu 22 Oct 15:01:30 BST 2020

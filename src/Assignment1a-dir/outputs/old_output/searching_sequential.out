@@ -1,0 +1,366 @@
+Compile Searching Sequential with compiler optimization (O2)
+Thu  8 Oct 15:50:42 BST 2020
+Read test number 0
+Text length = 20
+Pattern length = 5
+Pattern found at position 15
+# comparisons = 80
+
+Test 0 elapsed wall clock time = 0
+Test 0 elapsed CPU time = 0.000001349
+
+Read test number 1
+Text length = 25
+Pattern length = 4
+Pattern found at position 21
+# comparisons = 88
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.000000803
+
+Read test number 2
+Text length = 50
+Pattern length = 2
+Pattern found at position 48
+# comparisons = 98
+
+Test 2 elapsed wall clock time = 0
+Test 2 elapsed CPU time = 0.000000745
+
+Read test number 3
+Text length = 100
+Pattern length = 1
+Pattern found at position 99
+# comparisons = 100
+
+Test 3 elapsed wall clock time = 0
+Test 3 elapsed CPU time = 0.000000761
+
+Read test number 4
+Text length = 1000
+Pattern length = 10
+Pattern found at position 990
+# comparisons = 9910
+
+Test 4 elapsed wall clock time = 0
+Test 4 elapsed CPU time = 0.000011284
+
+Read test number 5
+Text length = 1250
+Pattern length = 8
+Pattern found at position 1242
+# comparisons = 9944
+
+Test 5 elapsed wall clock time = 0
+Test 5 elapsed CPU time = 0.000011169
+
+Read test number 6
+Text length = 2500
+Pattern length = 4
+Pattern found at position 2496
+# comparisons = 9988
+
+Test 6 elapsed wall clock time = 0
+Test 6 elapsed CPU time = 0.000010980
+
+Read test number 7
+Text length = 10000
+Pattern length = 1
+Pattern found at position 9999
+# comparisons = 10000
+
+Test 7 elapsed wall clock time = 0
+Test 7 elapsed CPU time = 0.000011051
+
+Read test number 8
+Text length = 62500
+Pattern length = 16
+Pattern found at position 62484
+# comparisons = 999760
+
+Test 8 elapsed wall clock time = 0
+Test 8 elapsed CPU time = 0.001035911
+
+Read test number 9
+Text length = 125000
+Pattern length = 8
+Pattern found at position 124992
+# comparisons = 999944
+
+Test 9 elapsed wall clock time = 0
+Test 9 elapsed CPU time = 0.001037011
+
+Read test number 10
+Text length = 250000
+Pattern length = 4
+Pattern found at position 249996
+# comparisons = 999988
+
+Test 10 elapsed wall clock time = 0
+Test 10 elapsed CPU time = 0.001063896
+
+Read test number 11
+Text length = 1000000
+Pattern length = 1
+Pattern found at position 999999
+# comparisons = 1000000
+
+Test 11 elapsed wall clock time = 0
+Test 11 elapsed CPU time = 0.001035073
+
+Read test number 12
+Text length = 390625
+Pattern length = 256
+Pattern found at position 390369
+# comparisons = 99934720
+
+Test 12 elapsed wall clock time = 0
+Test 12 elapsed CPU time = 0.106815816
+
+Read test number 13
+Text length = 625000
+Pattern length = 160
+Pattern found at position 624840
+# comparisons = 99974560
+
+Test 13 elapsed wall clock time = 0
+Test 13 elapsed CPU time = 0.108067662
+
+Read test number 14
+Text length = 800000
+Pattern length = 125
+Pattern found at position 799875
+# comparisons = 99984500
+
+Test 14 elapsed wall clock time = 0
+Test 14 elapsed CPU time = 0.109207598
+
+Read test number 15
+Text length = 1000000
+Pattern length = 100
+Pattern found at position 999900
+# comparisons = 99990100
+
+Test 15 elapsed wall clock time = 0
+Test 15 elapsed CPU time = 0.110729768
+
+Read test number 16
+Text length = 800000
+Pattern length = 12500
+Pattern found at position 787500
+# comparisons = 9843762500
+
+Test 16 elapsed wall clock time = 10
+Test 16 elapsed CPU time = 10.098022921
+
+Read test number 17
+Text length = 1000000
+Pattern length = 10000
+Pattern found at position 990000
+# comparisons = 9900010000
+
+Test 17 elapsed wall clock time = 10
+Test 17 elapsed CPU time = 10.180524653
+
+Read test number 18
+Text length = 1562500
+Pattern length = 6400
+Pattern found at position 1556100
+# comparisons = 9959046400
+
+Test 18 elapsed wall clock time = 10
+Test 18 elapsed CPU time = 10.274702414
+
+Read test number 19
+Text length = 2500000
+Pattern length = 4000
+Pattern found at position 2496000
+# comparisons = 9984004000
+
+Test 19 elapsed wall clock time = 10
+Test 19 elapsed CPU time = 10.260356176
+
+Thu  8 Oct 15:51:23 BST 2020
+Compile Searching Sequential without compiler optimization (O0)
+Thu  8 Oct 15:51:23 BST 2020
+Read test number 0
+Text length = 20
+Pattern length = 5
+Pattern found at position 15
+# comparisons = 80
+
+Test 0 elapsed wall clock time = 0
+Test 0 elapsed CPU time = 0.000001587
+
+Read test number 1
+Text length = 25
+Pattern length = 4
+Pattern found at position 21
+# comparisons = 88
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.000001012
+
+Read test number 2
+Text length = 50
+Pattern length = 2
+Pattern found at position 48
+# comparisons = 98
+
+Test 2 elapsed wall clock time = 0
+Test 2 elapsed CPU time = 0.000000982
+
+Read test number 3
+Text length = 100
+Pattern length = 1
+Pattern found at position 99
+# comparisons = 100
+
+Test 3 elapsed wall clock time = 0
+Test 3 elapsed CPU time = 0.000001039
+
+Read test number 4
+Text length = 1000
+Pattern length = 10
+Pattern found at position 990
+# comparisons = 9910
+
+Test 4 elapsed wall clock time = 0
+Test 4 elapsed CPU time = 0.000033833
+
+Read test number 5
+Text length = 1250
+Pattern length = 8
+Pattern found at position 1242
+# comparisons = 9944
+
+Test 5 elapsed wall clock time = 0
+Test 5 elapsed CPU time = 0.000033829
+
+Read test number 6
+Text length = 2500
+Pattern length = 4
+Pattern found at position 2496
+# comparisons = 9988
+
+Test 6 elapsed wall clock time = 0
+Test 6 elapsed CPU time = 0.000034049
+
+Read test number 7
+Text length = 10000
+Pattern length = 1
+Pattern found at position 9999
+# comparisons = 10000
+
+Test 7 elapsed wall clock time = 0
+Test 7 elapsed CPU time = 0.000034862
+
+Read test number 8
+Text length = 62500
+Pattern length = 16
+Pattern found at position 62484
+# comparisons = 999760
+
+Test 8 elapsed wall clock time = 0
+Test 8 elapsed CPU time = 0.003277526
+
+Read test number 9
+Text length = 125000
+Pattern length = 8
+Pattern found at position 124992
+# comparisons = 999944
+
+Test 9 elapsed wall clock time = 0
+Test 9 elapsed CPU time = 0.003232104
+
+Read test number 10
+Text length = 250000
+Pattern length = 4
+Pattern found at position 249996
+# comparisons = 999988
+
+Test 10 elapsed wall clock time = 0
+Test 10 elapsed CPU time = 0.003491790
+
+Read test number 11
+Text length = 1000000
+Pattern length = 1
+Pattern found at position 999999
+# comparisons = 1000000
+
+Test 11 elapsed wall clock time = 0
+Test 11 elapsed CPU time = 0.003364089
+
+Read test number 12
+Text length = 390625
+Pattern length = 256
+Pattern found at position 390369
+# comparisons = 99934720
+
+Test 12 elapsed wall clock time = 0
+Test 12 elapsed CPU time = 0.327548581
+
+Read test number 13
+Text length = 625000
+Pattern length = 160
+Pattern found at position 624840
+# comparisons = 99974560
+
+Test 13 elapsed wall clock time = 0
+Test 13 elapsed CPU time = 0.332259822
+
+Read test number 14
+Text length = 800000
+Pattern length = 125
+Pattern found at position 799875
+# comparisons = 99984500
+
+Test 14 elapsed wall clock time = 0
+Test 14 elapsed CPU time = 0.337605708
+
+Read test number 15
+Text length = 1000000
+Pattern length = 100
+Pattern found at position 999900
+# comparisons = 99990100
+
+Test 15 elapsed wall clock time = 0
+Test 15 elapsed CPU time = 0.335922218
+
+Read test number 16
+Text length = 800000
+Pattern length = 12500
+Pattern found at position 787500
+# comparisons = 9843762500
+
+Test 16 elapsed wall clock time = 31
+Test 16 elapsed CPU time = 31.906486775
+
+Read test number 17
+Text length = 1000000
+Pattern length = 10000
+Pattern found at position 990000
+# comparisons = 9900010000
+
+Test 17 elapsed wall clock time = 32
+Test 17 elapsed CPU time = 32.910635737
+
+Read test number 18
+Text length = 1562500
+Pattern length = 6400
+Pattern found at position 1556100
+# comparisons = 9959046400
+
+Test 18 elapsed wall clock time = 33
+Test 18 elapsed CPU time = 33.194129918
+
+Read test number 19
+Text length = 2500000
+Pattern length = 4000
+Pattern found at position 2496000
+# comparisons = 9984004000
+
+Test 19 elapsed wall clock time = 32
+Test 19 elapsed CPU time = 32.557539726
+
+Thu  8 Oct 15:53:35 BST 2020

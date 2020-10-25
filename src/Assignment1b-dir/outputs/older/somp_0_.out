@@ -1,0 +1,365 @@
+------
+Wed 21 Oct 19:46:33 BST 2020
+Starting searching sequential on test0
+Read test number 0
+Text length = 2000000
+Pattern length = 2000
+
+Pattern found, stopping search. Searched up to index 1998000 out of maximum of 1998000 indexes.
+
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 11
+Test 0 elapsed CPU time = 11.834943677
+
+Finished searching sequential on test0
+Wed 21 Oct 19:46:45 BST 2020
+Wed 21 Oct 19:46:45 BST 2020
+Start Searching Parallel with Scheduling=static
+
+Max threads available = 64
+
+Processors available = 4
+
+Read test number 0
+
+
+Running Test 0 using 1 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 10
+Test 0 elapsed CPU time = 10.783671631
+
+
+
+Running Test 0 using 2 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 5
+Test 0 elapsed CPU time = 5.732189714
+
+
+
+Running Test 0 using 4 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.026586502
+
+
+
+Running Test 0 using 8 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.080664313
+
+
+
+Running Test 0 using 16 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.017545230
+
+
+
+Running Test 0 using 32 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.054348339
+
+
+
+Running Test 0 using 64 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.019758789
+
+Finished Searching Parallel
+Wed 21 Oct 19:47:17 BST 2020
+Wed 21 Oct 19:47:17 BST 2020
+Start Searching Parallel with Scheduling=dynamic
+
+Max threads available = 64
+
+Processors available = 4
+
+Read test number 0
+
+
+Running Test 0 using 1 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 10
+Test 0 elapsed CPU time = 10.730276029
+
+
+
+Running Test 0 using 2 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 5
+Test 0 elapsed CPU time = 5.712101208
+
+
+
+Running Test 0 using 4 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.017911317
+
+
+
+Running Test 0 using 8 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.130334121
+
+
+
+Running Test 0 using 16 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.033465355
+
+
+
+Running Test 0 using 32 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.042226484
+
+
+
+Running Test 0 using 64 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.027923201
+
+Finished Searching Parallel
+Wed 21 Oct 19:47:49 BST 2020
+Wed 21 Oct 19:47:49 BST 2020
+Start Searching Parallel with Scheduling=guided
+
+Max threads available = 64
+
+Processors available = 4
+
+Read test number 0
+
+
+Running Test 0 using 1 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 10
+Test 0 elapsed CPU time = 10.747730012
+
+
+
+Running Test 0 using 2 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 5
+Test 0 elapsed CPU time = 5.749613518
+
+
+
+Running Test 0 using 4 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.027693907
+
+
+
+Running Test 0 using 8 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.020533473
+
+
+
+Running Test 0 using 16 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.027622228
+
+
+
+Running Test 0 using 32 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.042305932
+
+
+
+Running Test 0 using 64 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.021949490
+
+Finished Searching Parallel
+Wed 21 Oct 19:48:21 BST 2020
+Wed 21 Oct 19:48:21 BST 2020
+Start Searching Parallel with Scheduling=auto
+
+Max threads available = 64
+
+Processors available = 4
+
+Read test number 0
+
+
+Running Test 0 using 1 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 10
+Test 0 elapsed CPU time = 10.924406159
+
+
+
+Running Test 0 using 2 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 5
+Test 0 elapsed CPU time = 5.764406934
+
+
+
+Running Test 0 using 4 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.018958448
+
+
+
+Running Test 0 using 8 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.195660685
+
+
+
+Running Test 0 using 16 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.031801862
+
+
+
+Running Test 0 using 32 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.050210695
+
+
+
+Running Test 0 using 64 threads
+Text length = 2000000
+Pattern length = 2000
+Pattern found at position 1998000
+# comparisons = 3996002000
+
+Test 0 elapsed wall clock time = 3
+Test 0 elapsed CPU time = 3.022493794
+
+Finished Searching Parallel
+Wed 21 Oct 19:48:53 BST 2020

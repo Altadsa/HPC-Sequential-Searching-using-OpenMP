@@ -1,0 +1,844 @@
+Scheduling = static,2
+Thu 22 Oct 12:14:54 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003129
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.055367934
+
+Finished Search
+Thu 22 Oct 12:14:54 BST 2020
+Thu 22 Oct 12:14:54 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1001179
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.054826904
+
+Finished Search
+Thu 22 Oct 12:14:54 BST 2020
+Thu 22 Oct 12:14:54 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1000506
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.056270251
+
+Finished Search
+Thu 22 Oct 12:14:54 BST 2020
+Thu 22 Oct 12:14:54 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 999411
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.053964657
+
+Finished Search
+Thu 22 Oct 12:14:55 BST 2020
+Thu 22 Oct 12:14:55 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 993792
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.054895253
+
+Finished Search
+Thu 22 Oct 12:14:55 BST 2020
+Thu 22 Oct 12:14:55 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1000919
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.053495272
+
+Finished Search
+Thu 22 Oct 12:14:55 BST 2020
+Thu 22 Oct 12:14:55 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 998932
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.054810543
+
+Finished Search
+Thu 22 Oct 12:14:55 BST 2020
+Thu 22 Oct 12:14:55 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003350
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.055168423
+
+Finished Search
+Thu 22 Oct 12:14:55 BST 2020
+Thu 22 Oct 12:14:55 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 997847
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.055753472
+
+Finished Search
+Thu 22 Oct 12:14:55 BST 2020
+Thu 22 Oct 12:14:55 BST 2020
+Searching test1 using searching_OMP_1 with static,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1001302
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.056407518
+
+Finished Search
+Thu 22 Oct 12:14:55 BST 2020
+Scheduling = dynamic,2
+Thu 22 Oct 12:14:55 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003577
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.211636534
+
+Finished Search
+Thu 22 Oct 12:14:56 BST 2020
+Thu 22 Oct 12:14:56 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003556
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.194871594
+
+Finished Search
+Thu 22 Oct 12:14:56 BST 2020
+Thu 22 Oct 12:14:56 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003358
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.200726961
+
+Finished Search
+Thu 22 Oct 12:14:56 BST 2020
+Thu 22 Oct 12:14:56 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003750
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.203572153
+
+Finished Search
+Thu 22 Oct 12:14:57 BST 2020
+Thu 22 Oct 12:14:57 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003844
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.204772513
+
+Finished Search
+Thu 22 Oct 12:14:57 BST 2020
+Thu 22 Oct 12:14:57 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1002865
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.203089484
+
+Finished Search
+Thu 22 Oct 12:14:57 BST 2020
+Thu 22 Oct 12:14:57 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003280
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.202559748
+
+Finished Search
+Thu 22 Oct 12:14:58 BST 2020
+Thu 22 Oct 12:14:58 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1002423
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.188918775
+
+Finished Search
+Thu 22 Oct 12:14:58 BST 2020
+Thu 22 Oct 12:14:58 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003706
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.192511054
+
+Finished Search
+Thu 22 Oct 12:14:58 BST 2020
+Thu 22 Oct 12:14:58 BST 2020
+Searching test1 using searching_OMP_1 with dynamic,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1003716
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.211359017
+
+Finished Search
+Thu 22 Oct 12:14:58 BST 2020
+Scheduling = guided,2
+Thu 22 Oct 12:14:58 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1996088
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013565797
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1998676
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013205558
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2004618
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013495955
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1999485
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013968902
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2002057
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013264099
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2002157
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013530214
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2002939
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013162975
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1998257
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013558275
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2009122
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013293981
+
+Finished Search
+Thu 22 Oct 12:14:59 BST 2020
+Thu 22 Oct 12:14:59 BST 2020
+Searching test1 using searching_OMP_1 with guided,2 scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1996415
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013594613
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Scheduling = auto
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2007760
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013847215
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1995374
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013534700
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1997733
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013450273
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1997217
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013256737
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2006011
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013320131
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 2000292
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013572899
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1998659
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013044440
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1996482
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013217554
+
+Finished Search
+Thu 22 Oct 12:15:00 BST 2020
+Thu 22 Oct 12:15:00 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1999655
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013627588
+
+Finished Search
+Thu 22 Oct 12:15:01 BST 2020
+Thu 22 Oct 12:15:01 BST 2020
+Searching test1 using searching_OMP_1 with auto scheduling.
+
+Max threads available = 2
+
+Processors available = 4
+
+Read test number 1
+
+
+Running Test 1 using 2 threads
+Text length = 10000000
+Pattern length = 1000
+Pattern found at position 1001
+# comparisons = 1999696
+
+Test 1 elapsed wall clock time = 0
+Test 1 elapsed CPU time = 0.013298656
+
+Finished Search
+Thu 22 Oct 12:15:01 BST 2020

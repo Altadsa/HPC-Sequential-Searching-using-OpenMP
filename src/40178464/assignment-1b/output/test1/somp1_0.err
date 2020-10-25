@@ -1,0 +1,4 @@
+searching_OMP_0.c: In function ‘hostMatch’:
+searching_OMP_0.c:109:41: warning: backslash and newline separated by space [enabled by default]
+  private(j,k) firstprivate(breakSearch) \ 
+ ^
